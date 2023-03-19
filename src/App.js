@@ -13,7 +13,7 @@ import Geography from './scenes/geography'
 import Sidebar from './scenes/global/Sidebar'
 import Topbar from './scenes/global/Topbar'
 import Invoices from './scenes/invoices'
-import Line from './scenes/invoices'
+import Line from './scenes/line'
 import Pie from './scenes/pie'
 import Team from './scenes/team'
 
@@ -25,6 +25,7 @@ const App = () => {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <div className='app'>
+          <Sidebar />
           <main className='content'>
             <Topbar />
             <Routes>
