@@ -7,7 +7,7 @@ To capture the look and feel of the UI I've been working on in AROYA for the las
 ---
 
 #### Dependencies:
-- Material Ui/Icons/X Data Grid
+- Material UI/Icons/X Data Grid
 - React Pro Sidebar
 - React Router Dom
 - FullCalendar
