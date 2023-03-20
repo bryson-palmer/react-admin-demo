@@ -3,6 +3,7 @@
 
 ##### Purspose:
 To capture the look and feel of the UI I've been working on in AROYA for the last 1.5 years, I built this demo app following *Ed Roh's* [react-admin-dashboard](https://github.com/ed-roh/react-admin-dashboard) tutorial. Leveraging enterprise level dependencies, this app includes a css grid dashboard, nivo charts, material ui tables, & a formik/yup form.
+
 ---
 
 ##### Theme:
